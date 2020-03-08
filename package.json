@@ -1,0 +1,11 @@
+{
+  "name": "eye-protector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:robertPalczewski/eye-protector.git",
+  "author": "Robert Palczewski <robert.palczewski@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^8.1.0"
+  }
+}
