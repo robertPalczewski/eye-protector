@@ -5,6 +5,9 @@
   "repository": "git@github.com:robertPalczewski/eye-protector.git",
   "author": "Robert Palczewski <robert.palczewski@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "electron main.js"
+  },
   "dependencies": {
     "electron": "^8.1.0"
   }
